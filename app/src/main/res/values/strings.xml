@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeixinApplication</string>
+    <string name="txt_nav_home" />
+    <string name="txt_nav_news" />
+    <string name="txt_nav_user" />
+    <string name="txt_nav_music" />
+</resources>
